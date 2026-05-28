@@ -1,0 +1,14 @@
+type,id,name,x,y,from,to
+node,A,Gävle Centrum,0,0,,
+node,B,Andersberg,4,3,,
+node,C,Bomhus,9,2,,
+node,D,Valbo,13,7,,
+node,E,Sätra,5,10,,
+node,F,Hemlingby,10,12,,
+edge,,,,,A,B
+edge,,,,,B,C
+edge,,,,,C,D
+edge,,,,,B,E
+edge,,,,,E,F
+edge,,,,,F,D
+edge,,,,,C,F
